@@ -1,5 +1,5 @@
-name: SoupsZeldorium
-version: 0.0.3
+name: Soups
+version: 0.1.1
 api: 4.0.0
 author: Corentin503
-main: soups/Main
+main: soups\Main
